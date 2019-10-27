@@ -1,0 +1,7 @@
+Run []
+
+$ cd $HOME
+$ cd Cyber69/.SpamCALL/SpamCALL
+$ php SpamCALL.php
+
+Done []

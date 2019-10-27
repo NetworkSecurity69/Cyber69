@@ -1,0 +1,5 @@
+Run []
+
+$ cd $HOME
+$ cd Cyber69/.Premium/Premium
+$ python2 Premium.py

@@ -1,0 +1,7 @@
+Run []
+
+$ cd $HOME
+$ cd Cyber69/.TebasIndex/TebasIndex
+$ ./Index.sh
+
+Done []
